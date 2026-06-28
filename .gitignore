@@ -1,0 +1,22 @@
+# Data — stays local, never committed
+data/
+*.nc
+*.grib2
+*.grib
+*.csv
+asos_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.virtual_documents/
