@@ -20,3 +20,6 @@ Thumbs.db
 
 # Jupyter
 .virtual_documents/
+
+# Claude Code
+.claude/
